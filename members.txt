@@ -1,2 +1,3 @@
 github_username epfl_email
 korcek-juraj juraj.korcek@epfl.ch
+FCatia catia.forsell@epfl.ch
