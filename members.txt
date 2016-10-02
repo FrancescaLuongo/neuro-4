@@ -5,3 +5,4 @@ tferrarisv timothee.ferrari@epfl.ch
 jbesson julia.besson@epfl.ch
 LeonardoPollina  leonardo.pollina@epfl.ch
 Valoctocat valentin.gabeff@epfl.ch
+joeldaout joel.daout@epfl.ch
