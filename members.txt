@@ -2,3 +2,4 @@ github_username epfl_email
 korcek-juraj juraj.korcek@epfl.ch
 FCatia catia.forsell@epfl.ch
 tferrarisv timothee.ferrari@epfl.ch
+jbesson julia.besson@epfl.ch
