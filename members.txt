@@ -6,3 +6,4 @@ jbesson julia.besson@epfl.ch
 LeonardoPollina  leonardo.pollina@epfl.ch
 Valoctocat valentin.gabeff@epfl.ch
 joeldaout joel.daout@epfl.ch
+Elleaume camille.elleaume@epfl.ch
